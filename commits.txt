@@ -1,0 +1,149 @@
+commit e17b4cd144d2d86f62cbf46f961a725b6cdc9c5b
+Author: Florentina Ilie <ilief@oregonstate.edu>
+Date:   Wed Oct 23 08:58:10 2019 -0700
+
+    Fixed the name of mCrimes
+
+commit 9b9a74f60dbc36bd0c0ff9898426cfff45857e5b
+Author: Florentina Ilie <ilief@oregonstate.edu>
+Date:   Wed Oct 23 08:56:27 2019 -0700
+
+    Fixed the name of the List parameter to fix error: cannot find symbol variable crimes
+
+commit 663727f45c2daecbbe6f1d0977fbbba41bbea8d6
+Author: Florentina Ilie <ilief@oregonstate.edu>
+Date:   Wed Oct 23 08:47:37 2019 -0700
+
+    Added a list private variable to fix error: cannot find symbol variable mCrimes
+
+commit 5b616ba03bdbf1347d49173ed67e430b9aaea997
+Author: Florentina Ilie <ilief@oregonstate.edu>
+Date:   Wed Oct 23 08:44:57 2019 -0700
+
+    Fixed misspelled null
+
+commit c3b48487173a65c0ee8834a5df77ab244f306418
+Author: Florentina Ilie <ilief@oregonstate.edu>
+Date:   Wed Oct 23 08:44:00 2019 -0700
+
+    Changed NULL to false
+
+commit 721d4074e2032550e11c1817df51c84c069704ad
+Author: Florentina Ilie <ilief@oregonstate.edu>
+Date:   Wed Oct 23 08:42:31 2019 -0700
+
+    Added member variable mId
+
+commit 2f0bdc8c2c5b624f1c3bae898927155fb01fa7ea
+Author: Florentina Ilie <ilief@oregonstate.edu>
+Date:   Wed Oct 23 08:40:20 2019 -0700
+
+    Fixed the LayoutInflater name
+
+commit 516a1c73f6cbba484cefd3197051ad1bd0d6cbb5
+Author: Florentina Ilie <ilief@oregonstate.edu>
+Date:   Wed Oct 23 08:39:10 2019 -0700
+
+    Fixed the id name for date layout
+
+commit 03421c2475f936eda91654fd8b1c615029a9e66e
+Author: Florentina Ilie <ilief@oregonstate.edu>
+Date:   Wed Oct 23 08:36:03 2019 -0700
+
+    Fixed the context in crimeholder constructor
+
+commit b670d5a6e551db22db535ade3264a2753f1440c7
+Author: Florentina Ilie <ilief@oregonstate.edu>
+Date:   Wed Oct 23 08:34:44 2019 -0700
+
+    Fixed symbol class name of layout inflater
+
+commit 6ca61584f858279b04c7ebe746c1f1c2dafbbf60
+Author: Florentina Ilie <ilief@oregonstate.edu>
+Date:   Wed Oct 23 08:33:50 2019 -0700
+
+    Fixed integer symbol class name
+
+commit 416a4262a016046171fd96f50a7831e802da00cc
+Author: Florentina Ilie <ilief@oregonstate.edu>
+Date:   Wed Oct 23 08:33:03 2019 -0700
+
+    Fixed the symbol class name in Crimelab
+
+commit 4e87d430efe7ef05df9e15861f9fab540e7a093a
+Author: Florentina Ilie <ilief@oregonstate.edu>
+Date:   Wed Oct 23 08:29:38 2019 -0700
+
+    Fixed attribute id of recycler view
+
+commit d80e67591fbb955ff12989e1014896cce682b780
+Author: Florentina Ilie <ilief@oregonstate.edu>
+Date:   Wed Oct 23 08:22:52 2019 -0700
+
+    Fixed textview layout misspelling
+
+commit 330ac6f9a5d0afe2fb5cd3eba6a654471c075437
+Author: Florentina Ilie <ilief@oregonstate.edu>
+Date:   Wed Oct 23 08:20:58 2019 -0700
+
+    Fixed textview id name
+
+commit 5bc65251d884d6a7b57bf98d9c739cc84cd4a122
+Author: chaneyr <jesse.chaney@osucascades.edu>
+Date:   Mon Oct 21 06:39:33 2019 -0700
+
+    more commits
+
+commit 4b70be989813461b7902b1762ef673aa6559c279
+Author: chaneyr <jesse.chaney@osucascades.edu>
+Date:   Sun Oct 20 19:52:37 2019 -0700
+
+    more commits
+
+commit 91e72ad23b536e7c06ce8c94ca9a0c8e104306a6
+Author: chaneyr <jesse.chaney@osucascades.edu>
+Date:   Wed Oct 16 11:01:12 2019 -0700
+
+    more commits
+
+commit f8c86e70d93ab27d57936ed6300c1cbd257cf295
+Author: chaneyr <jesse.chaney@osucascades.edu>
+Date:   Wed Oct 16 09:44:19 2019 -0700
+
+    more commits
+
+commit 662c603435ee48de395d5b12f240bfd10fac621f
+Author: chaneyr <jesse.chaney@osucascades.edu>
+Date:   Wed Oct 16 07:10:35 2019 -0700
+
+    more commits
+
+commit 69e7f96fbf96afa9db6243daca00a67d31738543
+Author: chaneyr <jesse.chaney@osucascades.edu>
+Date:   Wed Oct 16 07:07:42 2019 -0700
+
+    more commits
+
+commit 1c42f36dacbadc294e9c115221090dd7d7a46dcd
+Author: chaneyr <jesse.chaney@osucascades.edu>
+Date:   Wed Oct 16 06:38:10 2019 -0700
+
+    more commits
+
+commit 14875574ea04f93ac2884fdafc750f4ce18b567c
+Author: chaneyr <jesse.chaney@osucascades.edu>
+Date:   Wed Oct 16 06:26:09 2019 -0700
+
+    more commits
+
+commit d3acf4217a30e08b4ed599dba47d35aa6b2ac8b0
+Author: chaneyr <jesse.chaney@osucascades.edu>
+Date:   Wed Oct 16 06:23:08 2019 -0700
+
+    more commits
+
+commit 0f8271d1471b2443fd3451be69754786d8b362c8
+Author: chaneyr <jesse.chaney@osucascades.edu>
+Date:   Wed Oct 16 06:05:12 2019 -0700
+
+    Initial commit
