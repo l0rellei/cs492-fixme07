@@ -78,7 +78,7 @@ public class CrimeListFragment extends Fragment {
         }
 
         @Override
-        public void onBindViewHolder(CrimeHolder holder, integer position) {
+        public void onBindViewHolder(CrimeHolder holder, int position) {
 
             Crime crime = mCrimes.get(position);
             holder.bind(crime);
